@@ -99,9 +99,11 @@ const CHARS: &[char] = &[
 ];
 
 //pub const RENDEZVOUS_SERVERS: &[&str] = &["rs-ny.rustdesk.com"];
-pub const RENDEZVOUS_SERVERS: &[&str] = &["vps.fantasymelon.cn"];
+// pub const RENDEZVOUS_SERVERS: &[&str] = &["vps.fantasymelon.cn"];
+pub const RENDEZVOUS_SERVERS: &[&str] = &["nas.fantasymelon.cn"];
 //pub const RS_PUB_KEY: &str = "OeVuKk5nlHiXp+APNn0Y3pC1Iwpwn44JGqrQCsWqmBw=";
-pub const RS_PUB_KEY: &str = "h1O+DuO75Qo7ExT2zWvqk5txFIH62QdpFyY6pkMPuqI=";
+// pub const RS_PUB_KEY: &str = "h1O+DuO75Qo7ExT2zWvqk5txFIH62QdpFyY6pkMPuqI=";
+pub const RS_PUB_KEY: &str = "Y37y08ljKqVJG5cvmHhvG9ZkLejLn2xXMsxe3QHe";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
